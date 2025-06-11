@@ -344,4 +344,3 @@ export {
   achievementSection, bigProjects, blogSection, contactInfo, educationInfo, greeting, illustration, isHireable, openSource, podcastSection, resumeSection, skillsSection, socialMediaLinks,
   splashScreen, talkSection, techStack, twitterDetails, workExperiences
 };
-
