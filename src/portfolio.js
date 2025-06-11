@@ -177,8 +177,8 @@ const bigProjects = {
       projectDesc: "Analyzes weather data and make predictions.",
       footerLink: [
         {
-          name: "View Post",
-          url: "https://www.linkedin.com/posts/shreeya-phapale_cloudburstprediction-machinelearning-climatetech-activity-7333409866092269568-clzk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEkwPMUBpWrAshCHObClpaBWWj0SUrnfAwU"
+          name: "View Project",
+          url: "https://github.com/Shreeya-2006/Clouburst-Prediction-System.git"
         }
         
       ]
@@ -189,8 +189,8 @@ const bigProjects = {
       projectDesc: "Exploring UI design and responsive layouts using HTML, CSS, JavaScript.",
       footerLink: [
         {
-          name: "View Post",
-          url: "https://www.linkedin.com/posts/shreeya-phapale_webdevelopment-frontenddevelopment-backenddevelopment-activity-7300816528533336067-L3kO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEkwPMUBpWrAshCHObClpaBWWj0SUrnfAwU"
+          name: "View Project",
+          url: "https://github.com/Shreeya-2006/Netflix-Clone.git"
         }
       ]
     },
@@ -200,8 +200,8 @@ const bigProjects = {
       projectDesc: "Learning front-end technologies through HTML and CSS.",
       footerLink: [
         {
-          name: "View Post",
-          url: "https://www.linkedin.com/posts/shreeya-phapale_webdevelopment-frontenddevelopment-backenddevelopment-activity-7300816528533336067-L3kO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEkwPMUBpWrAshCHObClpaBWWj0SUrnfAwU"
+          name: "View Project",
+          url: "https://github.com/Shreeya-2006/Amazon.com-Clone.git"
         }
       ]
     }
@@ -233,6 +233,15 @@ const achievementSection = {
       ]
     },
     {
+      title: "Database Structures and Management with MySQL by META",
+      subtitle: "Utilize the MySQL DBMS to build and modify relational databases with SQL.",
+      image: require("./assets/images/Meta.png"),
+      imageAlt: "Meta Certificate",
+      footerLink: [
+        {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/55240PSG0OEH"},
+      ]
+    },
+    {
       title: "Google Cloud Arcade 2025",
       subtitle:
         "Participated in Google Cloud Arcade, gaining hands-on experience with Google Cloud technologies through interactive labs and real-world scenarios.",
@@ -243,16 +252,6 @@ const achievementSection = {
           name: "View Post",
           url: "https://www.linkedin.com/posts/shreeya-phapale_googlecloud-cloudcomputing-apis-activity-7331261139802107904-wdYP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEkwPMUBpWrAshCHObClpaBWWj0SUrnfAwU"
         }
-      ]
-    },
-
-    {
-      title: "Database Structures and Management with MySQL by META",
-      subtitle: "Utilize the MySQL DBMS to build and modify relational databases with SQL.",
-      image: require("./assets/images/Meta.png"),
-      imageAlt: "Meta Certificate",
-      footerLink: [
-        {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/55240PSG0OEH"},
       ]
     }
   ],
