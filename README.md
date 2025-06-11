@@ -4,7 +4,8 @@
 
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/53429438/106779355-e9cd9e80-666c-11eb-9417-8a4b54441bc6.gif" alt="Portfolio Demo" />
+    <img src="https://github.com/Shreeya-2006/My-Portfolio/blob/main/portfolio_lightmode.png" alt="Portfolio Demo(Light Mode)" />
+    <img src="https://github.com/Shreeya-2006/My-Portfolio/blob/main/portfolio_darkmode.png" alt="Portfolio Demo(Light Mode)" />
   </kbd>
 </p>
 
@@ -21,8 +22,6 @@ Welcome to my personal developer portfolio! This website is a showcase of my jou
 - [✨ Features](#-features)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🚀 Deployment](#-deployment)
-- [📸 Portfolio Sections](#-portfolio-sections)
-- [🤝 Let's Connect](#-lets-connect)
 
 ---
 
@@ -75,3 +74,4 @@ cd My-Portfolio
 
 # Open index.html in a browser
 # Or serve with Live Server (VS Code extension)
+```
