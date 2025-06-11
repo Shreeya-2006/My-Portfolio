@@ -1,8 +1,6 @@
-# ⚡ Shreeya's Developer Portfolio  
-[![GitHub license](https://img.shields.io/github/license/Shreeya-2006/My-Portfolio?color=blue)](https://github.com/Shreeya-2006/My-Portfolio/blob/main/LICENSE)  
-[![GitHub stars](https://img.shields.io/github/stars/Shreeya-2006/My-Portfolio?style=social)](https://github.com/Shreeya-2006/My-Portfolio/stargazers)
+# ⚡ Shreeya's Developer Portfolio
 
-## 💫 A clean, modern and responsive developer portfolio template built with React.js
+## 💫 A clean, modern and responsive developer portfolio built with React.js
 
 <p align="center">
   <kbd>
@@ -25,7 +23,6 @@ Welcome to my personal developer portfolio! This website is a showcase of my jou
 - [🚀 Deployment](#-deployment)
 - [📸 Portfolio Sections](#-portfolio-sections)
 - [🤝 Let's Connect](#-lets-connect)
-- [📄 License](#-license)
 
 ---
 
