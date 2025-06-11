@@ -70,6 +70,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
+      skillName: "sass",
+      fontAwesomeClassname: "fab fa-sass"
+    },
+    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
@@ -93,9 +97,21 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "GitHub",
       fontAwesomeClassname: "fab fa-github"
     },
+     {
+      skillName: "npm",
+      fontAwesomeClassname: "fab fa-npm"
+    },
     {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "docker",
+      fontAwesomeClassname: "fab fa-docker"
     }
   ],
   display: true // Set false to hide this section, defaults to true
