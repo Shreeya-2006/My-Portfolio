@@ -51,7 +51,9 @@ const skillsSection = {
     emoji(
       "⚡Develop dynamic full-stack web applications using React, Node.js, and MySQL"
     ),
-    emoji("⚡ Strong coding skills in C, C++, Java, and JavaScript for efficient algorithms and backend logic"),
+    emoji(
+      "⚡ Strong coding skills in C, C++, Java, and JavaScript for efficient algorithms and backend logic"
+    ),
     emoji(
       "⚡ Build and deploy scalable projects with cloud services like Firebase"
     )
@@ -97,7 +99,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "GitHub",
       fontAwesomeClassname: "fab fa-github"
     },
-     {
+    {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
     },
@@ -125,7 +127,8 @@ const educationInfo = {
     {
       schoolName: "MIT ADT University",
       logo: require("./assets/images/MITADT.jpeg"),
-      subHeader: "Bachelor of Technology in Computer Science & Engineering(Core)",
+      subHeader:
+        "Bachelor of Technology in Computer Science & Engineering(Core)",
       duration: "June 2023 - June 2027",
       desc: "Awarded as one of the top performers with 9+ CGPA"
     }
@@ -172,20 +175,20 @@ const workExperiences = {
   ]
 };
 
-
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display:false // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "SOME PROJECTS I WORKED ON TO GAIN HANDS-ON EXPERIENCE IN MY SKILLS.",
+  subtitle:
+    "SOME PROJECTS I WORKED ON TO GAIN HANDS-ON EXPERIENCE IN MY SKILLS.",
   projects: [
     {
       image: require("./assets/images/CloudburstPredictionSystem.png"),
@@ -196,13 +199,13 @@ const bigProjects = {
           name: "View Project",
           url: "https://github.com/Shreeya-2006/Clouburst-Prediction-System.git"
         }
-        
       ]
     },
     {
       image: require("./assets/images/Netflix.jpeg"),
       projectName: "Netflix Clone",
-      projectDesc: "Exploring UI design and responsive layouts using HTML, CSS, JavaScript.",
+      projectDesc:
+        "Exploring UI design and responsive layouts using HTML, CSS, JavaScript.",
       footerLink: [
         {
           name: "View Project",
@@ -221,7 +224,6 @@ const bigProjects = {
         }
       ]
     }
-    
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -231,8 +233,7 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Certifications 🏆 "),
-  subtitle:
-    "Certifications and some cool stuff that I have done !",
+  subtitle: "Certifications and some cool stuff that I have done !",
 
   achievementsCards: [
     {
@@ -250,11 +251,15 @@ const achievementSection = {
     },
     {
       title: "Database Structures and Management with MySQL by META",
-      subtitle: "Utilize the MySQL DBMS to build and modify relational databases with SQL.",
+      subtitle:
+        "Utilize the MySQL DBMS to build and modify relational databases with SQL.",
       image: require("./assets/images/Meta.png"),
       imageAlt: "Meta Certificate",
       footerLink: [
-        {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/55240PSG0OEH"},
+        {
+          name: "Certification",
+          url: "https://www.coursera.org/account/accomplishments/verify/55240PSG0OEH"
+        }
       ]
     },
     {
@@ -357,6 +362,22 @@ const twitterDetails = {
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
-  achievementSection, bigProjects, blogSection, contactInfo, educationInfo, greeting, illustration, isHireable, openSource, podcastSection, resumeSection, skillsSection, socialMediaLinks,
-  splashScreen, talkSection, techStack, twitterDetails, workExperiences
+  achievementSection,
+  bigProjects,
+  blogSection,
+  contactInfo,
+  educationInfo,
+  greeting,
+  illustration,
+  isHireable,
+  openSource,
+  podcastSection,
+  resumeSection,
+  skillsSection,
+  socialMediaLinks,
+  splashScreen,
+  talkSection,
+  techStack,
+  twitterDetails,
+  workExperiences
 };

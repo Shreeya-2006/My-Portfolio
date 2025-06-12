@@ -47,15 +47,15 @@ Here’s everything this portfolio includes:
 
 This portfolio was created using modern web development tools and libraries:
 
-| Technology | Description |
-|------------|-------------|
-| **React.js** | JavaScript library for building UI |
-| **HTML5** | Markup language for structuring content |
-| **CSS3 / SCSS** | Styling and responsive design |
-| **JavaScript (ES6+)** | Core scripting |
-| **Lottie** | Animations integration |
-| **Git & GitHub** | Version control and code hosting |
-| **GitHub Pages** | Static deployment |
+| Technology            | Description                             |
+| --------------------- | --------------------------------------- |
+| **React.js**          | JavaScript library for building UI      |
+| **HTML5**             | Markup language for structuring content |
+| **CSS3 / SCSS**       | Styling and responsive design           |
+| **JavaScript (ES6+)** | Core scripting                          |
+| **Lottie**            | Animations integration                  |
+| **Git & GitHub**      | Version control and code hosting        |
+| **GitHub Pages**      | Static deployment                       |
 
 ---
 

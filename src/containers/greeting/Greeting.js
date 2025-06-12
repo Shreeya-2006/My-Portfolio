@@ -1,12 +1,12 @@
-import React, { useContext } from "react";
+import React, {useContext} from "react";
 import emoji from "react-easy-emoji";
-import { Fade } from "react-reveal";
+import {Fade} from "react-reveal";
 import landingPerson from "../../assets/lottie/landingPerson";
 import Button from "../../components/button/Button";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import StyleContext from "../../contexts/StyleContext";
-import { greeting, illustration } from "../../portfolio";
+import {greeting, illustration} from "../../portfolio";
 import "./Greeting.scss";
 
 export default function Greeting() {
