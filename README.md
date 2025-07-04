@@ -72,6 +72,14 @@ git clone https://github.com/Shreeya-2006/My-Portfolio.git
 # Navigate into the folder
 cd My-Portfolio
 
-# Open index.html in a browser
-# Or serve with Live Server (VS Code extension)
+# For Linux
+cp env.example .env
+# For Windows
+copy env.example .env
+
+# Install dependencies
+npm install
+
+# Start a local dev server
+npm start
 ```
