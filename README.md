@@ -39,7 +39,7 @@ Here’s everything this portfolio includes:
 - 💼 **Work Experience** cards to highlight professional background
 - 💡 **Project Showcase** with GitHub links
 - 🏆 **Certifications & Achievements** section
-- 📬 **Contact Info** with integrated message box (optional)
+- 📬 **Contact Info** with integrated message box
 
 ---
 
